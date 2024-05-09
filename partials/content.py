@@ -187,7 +187,7 @@ class MainContent(ft.UserControl):
                 ProjectItem(
                     title="ToDo App",
                     description="Aplicativo para gerenciamento de tarefas com integração ao banco de dados SQLite.",
-                    url="",
+                    url="https://github.com/ksantanac/ToDo-App",
                     col={"xs": 12, "md": 6, "lg": 4}
                 ),
 
